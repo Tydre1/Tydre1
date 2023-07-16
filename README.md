@@ -1,4 +1,14 @@
-### Hi there 👋
+### Oláá meu nome é André e sou iniciante em programação Front-End! 👋
+
+Já faz quase 4 meses que comecei a estudar pela Alura, atualmente conclui os cursos de HTML, CSS e JavaScript. Mas sinto que tenho muito, mas muito a aprender.
+
+
+# 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-barbosa229/) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrehenrique135/)
+
 
 <!--
 **Tydre1/Tydre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
