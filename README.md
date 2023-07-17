@@ -1,4 +1,4 @@
-### Olá meu nome é André e sou iniciante em programação Front-End! 👋
+### Olá meu nome é André e sou iniciante em programação Front-End e Back-End! 👋
 
 Já faz quase 4 meses que comecei a estudar pela Alura, atualmente conclui os cursos de HTML, CSS e JavaScript. Mas sinto que tenho muito, mas muito a aprender.
 
