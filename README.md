@@ -18,6 +18,9 @@ Sinta-se à vontade para explorar meus projetos, dar feedback ou até mesmo apen
 
 _"O código é a nossa tela em branco, e o céu é o limite da nossa criatividade."_
 
-![Tydre1's Stats](https://github-readme-stats.vercel.app/api?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
-![Tydre1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tydre1&theme=material-palenight&hide_border=false)
-![Tydre1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="Tydre1's Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tydre1&theme=material-palenight&hide_border=false" alt="Tydre1's Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="Tydre1's Top Languages">
+</div>
+
