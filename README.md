@@ -17,3 +17,7 @@ Conecte-se comigo ou acompanhe minha jornada pelo LinkedIn e Instagram:
 Sinta-se à vontade para explorar meus projetos, dar feedback ou até mesmo apenas para bater um papo sobre tecnologia e desenvolvimento. Vamos aprender e crescer juntos nessa jornada emocionante!
 
 _"O código é a nossa tela em branco, e o céu é o limite da nossa criatividade."_
+
+![Tydre1's Stats](https://github-readme-stats.vercel.app/api?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![Tydre1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tydre1&theme=material-palenight&hide_border=false)
+![Tydre1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tydre1&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
